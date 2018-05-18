@@ -1,2 +1,2 @@
-# mylazyapps
-Programs I write to practise or solve a paticular issue.
+#octaldecoder
+a Program to decode octal numbers to their ascii equivalent .
